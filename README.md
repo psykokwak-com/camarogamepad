@@ -38,7 +38,7 @@ I am compiling here the documentation to create a device that allows using a 201
 4. Install the libraries dependencies (from the libraries manager): [ArduinoXInput](https://github.com/dmadison/ArduinoXInput), [Arduino-MCP2515](https://github.com/autowp/arduino-mcp2515)
 5. **Important**: Follow the [instructions and install the XInput boards](https://www.partsnotincluded.com/how-to-emulate-an-xbox-controller-with-arduino-xinput/) from the ArduinoXInput library.  
    *(Failure to follow these instructions will result in the device not functioning and potentially bricking your Arduino board.)*
-7. Flash the CamaroGamepad.ino sketch to the arduino
+7. Flash the [CamaroGamePad.ino](https://github.com/psykokwak-com/camarogamepad/blob/main/XBOXController/CamaroGamePad.ino) sketch to the arduino
 
 
 ## CAN reverse engineering
@@ -53,7 +53,7 @@ I am compiling here the documentation to create a device that allows using a 201
 
 ### Software Setup
 
-- Flash the ESP32 board with the "canhacker_custom.ino" sketch
+- Flash the ESP32 board with the [canhacker.ino](https://github.com/psykokwak-com/camarogamepad/blob/main/CanHacker/canhacker.ino) sketch
 - SavvyCan with custom build (See https://github.com/collin80/SavvyCAN/issues/764)
 - Configure a new connection :
   + LAWICEL

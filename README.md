@@ -85,3 +85,10 @@ For now, here's what I've found (CAMARO 2012):
 - Unit: degrees * 10
 
 *If you've identified any other useful IDs, let me know.*
+
+### More ?
+
+- https://www.camaro5.com/forums/showpost.php?p=10072820&postcount=4
+- https://docs.google.com/spreadsheets/d/1pFdixF6W0XK4SR6pXHIlZaFRo9qM5XmAWOK7JcAQdDM/htmlview
+- https://forum.realdash.net/t/multi-bus-data-with-obdlink-ex/3872
+- https://pinoutguide.com/CarElectronics/gm_car_obd_ii_pinout.shtml
